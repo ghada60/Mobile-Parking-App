@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1049761817231",
+    "project_id": "motah-1eb2a",
+    "storage_bucket": "motah-1eb2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049761817231:android:0b56d74a80e280317046fa",
+        "android_client_info": {
+          "package_name": "com.example.motah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049761817231-06h3ihn5c0r5gssmaapubhu5ssihlhtl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVtu-i_qTGBxshNosKgsHeav8PhB44GYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049761817231-06h3ihn5c0r5gssmaapubhu5ssihlhtl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
